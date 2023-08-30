@@ -1,0 +1,17 @@
+
+.daftar a{
+    text-decoration: none;
+    float: right;
+}
+
+.text1{
+    text-align: left;
+    width: 30rem;
+}
+.text1 h3{
+    margin-top: 20%;
+}
+img{
+    width: 55%;
+    float: right;
+}
